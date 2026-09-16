@@ -204,3 +204,6 @@ Free PDF Password Remover is the full free version, offering all features and up
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-16 13:49:32 UTC
